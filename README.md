@@ -89,7 +89,7 @@ len()
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
  
 │
 ├── README.md
@@ -98,7 +98,7 @@ len()
 
 ### Files
 
-**`data_analyser.py`**
+**`main.py`**
 Contains the complete source code of the Data Analyser and Transformer Program.
 
 **`README.md`**
@@ -151,7 +151,7 @@ Open the project folder in VS Code or any Python-supported IDE.
 Run:
 
 ```bash
-python data_analyser.py
+python main.py
 ```
 
 The program will display:
