@@ -92,9 +92,9 @@ len()
 ## 📂 Project Structure
  
 │
-├── main.py
 ├── README.md
-└── image.png
+├── image.png
+└── main.py
 
 ### Files
 
