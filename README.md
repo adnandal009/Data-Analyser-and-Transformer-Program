@@ -276,24 +276,7 @@ Through this project, the following skills are demonstrated:
 
 **Virendra Nakum**
 
-**Aspiring Data Analyst | Data Scientist | AI/ML Enthusiast**
+ 
 
-Interested in:
-
-* Data Analytics
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Real-World Data Projects
-
----
-
-## 📜 License
-
-This project is created for **learning, practice, and portfolio development purposes**.
-
----
-
-⭐ **If you find this project useful, consider giving the repository a star!**
 
  
